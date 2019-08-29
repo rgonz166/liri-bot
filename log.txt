@@ -1,0 +1,61 @@
+Searching concert for Metallica on Wednesday, August 28, 2019 11:47 PM
+Venue: Chase Center
+Location: San Francisco CA
+Date: 09/06/2019
+------------------
+Venue: Chase Center
+Location: San Francisco CA
+Date: 09/08/2019
+------------------
+Venue: Marvel Stadium
+Location: Docklands, Australia
+Date: 10/24/2019
+------------------
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, Australia
+Date: 10/26/2019
+------------------
+Venue: Queensland Sport And Athletics Centre (QSAC)
+Location: Brisbane, Australia
+Date: 10/29/2019
+------------------
+Venue: Mt Smart Stadium
+Location: Auckland, New Zealand
+Date: 10/31/2019
+------------------
+Venue: Mt Smart Stadium
+Location: Auckland, New Zealand
+Date: 11/02/2019
+------------------
+Venue: Estadio Nacional
+Location: Estadio Nacional, Chile
+Date: 04/15/2020
+------------------
+Venue: Argentine Polo Association
+Location: Bwp, Argentina
+Date: 04/18/2020
+------------------
+Venue: Arena do Grêmio
+Location: Porto Alegre, Brazil
+Date: 04/21/2020
+------------------
+Venue: Arena do Grêmio
+Location: Porto Alegre, Brazil
+Date: 04/23/2020
+------------------
+Venue: Mineirão
+Location: Belo Horizonte, Brazil
+Date: 04/27/2020
+------------------
+Venue: Adelaide Oval
+Location: North Adelaide, Australia
+Date: 10/20/2019
+------------------
+Venue: Marvel Stadium
+Location: Docklands, Australia
+Date: 10/22/2019
+------------------
+Venue: Optus Stadium
+Location: Burswood, Australia
+Date: 10/17/2019
+------------------
