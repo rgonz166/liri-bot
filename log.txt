@@ -1,4 +1,131 @@
-Searching concert for Metallica on Wednesday, August 28, 2019 11:47 PM
+Searching concert for metallica on Monday, September 2, 2019 10:07 AM
+Venue: Chase Center
+Location: San Francisco CA
+Date: 09/06/2019
+------------------
+Venue: Marvel Stadium
+Location: Docklands, Australia
+Date: 10/22/2019
+------------------
+Venue: Marvel Stadium
+Location: Docklands, Australia
+Date: 10/24/2019
+------------------
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, Australia
+Date: 10/26/2019
+------------------
+Venue: Queensland Sport And Athletics Centre (QSAC)
+Location: Brisbane, Australia
+Date: 10/29/2019
+------------------
+Venue: Mt Smart Stadium
+Location: Auckland, New Zealand
+Date: 10/31/2019
+------------------
+Venue: Mt Smart Stadium
+Location: Auckland, New Zealand
+Date: 11/02/2019
+------------------
+Venue: Estadio Nacional
+Location: Estadio Nacional, Chile
+Date: 04/15/2020
+------------------
+Venue: Argentine Polo Association
+Location: Bwp, Argentina
+Date: 04/18/2020
+------------------
+Venue: Arena do Grêmio
+Location: Porto Alegre, Brazil
+Date: 04/21/2020
+------------------
+Venue: Arena do Grêmio
+Location: Porto Alegre, Brazil
+Date: 04/23/2020
+------------------
+Venue: Mineirão
+Location: Belo Horizonte, Brazil
+Date: 04/27/2020
+------------------
+Venue: Adelaide Oval
+Location: North Adelaide, Australia
+Date: 10/20/2019
+------------------
+Venue: Chase Center
+Location: San Francisco CA
+Date: 09/08/2019
+------------------
+Venue: Optus Stadium
+Location: Burswood, Australia
+Date: 10/17/2019
+------------------
+
+
+=======================
+Searching concert for metallica on Monday, September 2, 2019 10:38 AM
+Venue: Chase Center
+Location: San Francisco CA
+Date: 09/06/2019
+------------------
+Venue: Adelaide Oval
+Location: North Adelaide, Australia
+Date: 10/20/2019
+------------------
+Venue: Marvel Stadium
+Location: Docklands, Australia
+Date: 10/24/2019
+------------------
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, Australia
+Date: 10/26/2019
+------------------
+Venue: Queensland Sport And Athletics Centre (QSAC)
+Location: Brisbane, Australia
+Date: 10/29/2019
+------------------
+Venue: Mt Smart Stadium
+Location: Auckland, New Zealand
+Date: 10/31/2019
+------------------
+Venue: Mt Smart Stadium
+Location: Auckland, New Zealand
+Date: 11/02/2019
+------------------
+Venue: Estadio Nacional
+Location: Estadio Nacional, Chile
+Date: 04/15/2020
+------------------
+Venue: Argentine Polo Association
+Location: Bwp, Argentina
+Date: 04/18/2020
+------------------
+Venue: Arena do Grêmio
+Location: Porto Alegre, Brazil
+Date: 04/21/2020
+------------------
+Venue: Arena do Grêmio
+Location: Porto Alegre, Brazil
+Date: 04/23/2020
+------------------
+Venue: Mineirão
+Location: Belo Horizonte, Brazil
+Date: 04/27/2020
+------------------
+Venue: Marvel Stadium
+Location: Docklands, Australia
+Date: 10/22/2019
+------------------
+Venue: Chase Center
+Location: San Francisco CA
+Date: 09/08/2019
+------------------
+Venue: Optus Stadium
+Location: Burswood, Australia
+Date: 10/17/2019
+------------------
+
+=======================
+Searching concert for metallica on Monday, September 2, 2019 10:39 AM
 Venue: Chase Center
 Location: San Francisco CA
 Date: 09/06/2019
@@ -58,4 +185,44 @@ Date: 10/22/2019
 Venue: Optus Stadium
 Location: Burswood, Australia
 Date: 10/17/2019
+------------------
+
+=======================
+Searching spotify for Turn the Page on Monday, September 2, 2019 10:44 AM
+
+Track: Turn The Page
+Preview URL: https://p.scdn.co/mp3-preview/28645e9a565ae18a0e544f91f327c8a05aef1125?cid=5a91626deed6466289f9a844ccf90b1b
+Album: Garage, Inc.
+------------------
+
+=======================
+Searching movie for Chronicle on Wednesday, September 4, 2019 9:12 PM
+
+Title: Chronicle
+Year: 2012
+IMDB rating: 7.1
+Rotten Tomatoes Rating: 85%
+Country Produced: USA
+Language: English
+Plot: Three high school friends gain superpowers after making an incredible discovery underground. Soon they find their lives spinning out of control and their bond tested as they embrace their darker sides.
+Actors: Dane DeHaan, Alex Russell, Michael B. Jordan, Michael Kelly
+------------------
+
+=======================
+Searching spotify for "I Want it That Way" on Wednesday, September 4, 2019 9:29 PM
+
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5a91626deed6466289f9a844ccf90b1b
+Album: The Hits--Chapter One
+------------------
+
+=======================
+Running random.txt on Wednesday, September 4, 2019 9:32 PM
+
+=======================
+Searching spotify for "I Want it That Way" on Wednesday, September 4, 2019 9:32 PM
+
+Track: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5a91626deed6466289f9a844ccf90b1b
+Album: The Hits--Chapter One
 ------------------
